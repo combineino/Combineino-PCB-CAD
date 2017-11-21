@@ -1,4 +1,4 @@
-コンバイーノ　https://github.com/combineino　のCAD操作案内
+コンバイーノ　https://github.com/combineino のCAD操作案内
 
 # KiCAD
 自作したフットプリントをgithubで管理する
