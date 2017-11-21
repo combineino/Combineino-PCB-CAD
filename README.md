@@ -17,6 +17,9 @@ http://kicad-pcb.org/help/tutorials/
 Hierarchical schematics as schematic buildingblocks at KiCad Rev. C - 
 https://www.mikrocontroller.net/wikifiles/a/ab/HierarchicalSchematicsAsBuildingblocksAtKiCad_RevC-EN_06May2015.pdf
 
+combineino/KiCAD/wiki
+https://github.com/combineino/KiCAD/wiki
+
 KiCad Third-Party Tools
 https://github.com/xesscorp/kicad-3rd-party-tools
 
