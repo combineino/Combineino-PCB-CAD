@@ -10,15 +10,6 @@ KiCadのフットプリント・モジュールライブラリには、githubと
 KICADの他のプロジェクトから回路をコピーする
 http://logiclover.hatenablog.jp/entry/2017/03/31/215600
 
-KiCad – Eagleの回路図を読み込む
-
-http://neo-sahara.com/wp/2015/12/02/kicad-eagle%E3%81%AE%E5%9B%9E%E8%B7%AF%E5%9B%B3%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%80/
-
-EAGLE TO KICAD MADE EASY
-
-https://hackaday.com/2015/12/27/eagle-to-kicad-made-easy/
-
-
 ## tutorials
 http://kicad-pcb.org/help/tutorials/
 
@@ -36,3 +27,16 @@ http://projects.borg.ch/electronics/kicad/panelize.html
 
 RenumKicadPCB - RenumKiCadPCBはKiCad PCBファイルを処理し、PCB上のどこに配置されているかに基づいて数字で終わるすべてのコンポーネント参照指定子に番号を付け替えます。その後、スケマティック階層を処理し、一致するコンポーネント参照指定子を更新します。これにより、すべてのコンポーネントを見つけることができるので、ボード上での作業がはるかに簡単になります。このダウンロードには、ユーザーマニュアル、Windowsの実行可能ファイル、およびLinuxでのコンパイルのための指示が含まれています。
 https://documenteddesigns.com/2017/03/27/renumkicadpcb-v0203/
+
+# Eagle
+Ver7.7　Download
+
+ftp://ftp.cadsoft.de/eagle/program/
+
+KiCad – Eagleの回路図を読み込む
+
+http://neo-sahara.com/wp/2015/12/02/kicad-eagle%E3%81%AE%E5%9B%9E%E8%B7%AF%E5%9B%B3%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%80/
+
+EAGLE TO KICAD MADE EASY
+
+https://hackaday.com/2015/12/27/eagle-to-kicad-made-easy/
