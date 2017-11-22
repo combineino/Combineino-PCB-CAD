@@ -8,7 +8,12 @@ http://www.usagi1975.com/01feb151931/
 KiCadのフットプリント・モジュールライブラリには、githubと連携する機能が備わっている。
 
 KICADの他のプロジェクトから回路をコピーする
+
 http://logiclover.hatenablog.jp/entry/2017/03/31/215600
+
+KiCAD で複数ボードプロジェクトを運用する
+
+https://lowreal.net/2016/07/25/1
 
 ## tutorials
 http://kicad-pcb.org/help/tutorials/
