@@ -45,3 +45,7 @@ http://neo-sahara.com/wp/2015/12/02/kicad-eagle%E3%81%AE%E5%9B%9E%E8%B7%AF%E5%9B
 EAGLE TO KICAD MADE EASY
 
 https://hackaday.com/2015/12/27/eagle-to-kicad-made-easy/
+
+格安基板　https://jlcpcb.com/
+
+
