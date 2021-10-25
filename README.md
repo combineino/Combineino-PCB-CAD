@@ -16,7 +16,7 @@ KiCAD で複数ボードプロジェクトを運用する
 https://lowreal.net/2016/07/25/1
 
 ## tutorials
-http://kicad-pcb.org/help/tutorials/
+http://kicad.org/help/tutorials/
 
 Hierarchical schematics as schematic buildingblocks at KiCad Rev. C - 
 https://www.mikrocontroller.net/wikifiles/a/ab/HierarchicalSchematicsAsBuildingblocksAtKiCad_RevC-EN_06May2015.pdf
